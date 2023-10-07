@@ -230,6 +230,6 @@ section:nth-child(1) {
 .footer { 
   position: absolute; 
   bottom: 0; 
-  left: 2; 
+  left: 200px; 
   z-index: 10;
 }
